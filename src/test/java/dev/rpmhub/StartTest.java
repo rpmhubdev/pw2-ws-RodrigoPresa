@@ -48,5 +48,4 @@ public class StartTest {
             .statusCode(200)
             .body(is("1.852"));
     }
-
 }
